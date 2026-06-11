@@ -79,7 +79,10 @@
     margin-bottom: 30px;
     text-align: center;
   }
-
+  /* 모바일 미디어 쿼리 안에서 */
+  .infor__summary-item-1-emoji-area img {
+    display: none; /* 이미지만 숨김 */
+  }
   .infor__summary-item-1-emoji-area img,
   .infor__summary-item-2-emoji-area img,
   .infor__summary-item-3-emoji-area img,

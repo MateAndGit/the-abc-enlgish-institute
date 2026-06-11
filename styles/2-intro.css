@@ -45,7 +45,9 @@
 
 @media (max-width: 768px) {
   .intro {
-    margin: 1.5em;
+    width: 100%;
+    max-width: 340px;
+    margin: 0 1.5em;
     height: auto;
     flex-direction: column;
   }
