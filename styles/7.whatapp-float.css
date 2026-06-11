@@ -32,5 +32,6 @@
   }
   .whatsapp-float:hover {
     transform: none;
+    background-color: white;
   }
 }
