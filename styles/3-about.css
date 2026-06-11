@@ -31,7 +31,8 @@
 }
 
 .about__area {
-  width: 2700px;
+  width: 100%;
+  max-width: 600px;
   height: auto;
   overflow: hidden;
   padding-left: 5em;
