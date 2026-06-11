@@ -58,11 +58,12 @@
 @media (max-width: 768px) {
   .infor {
     width: 100%;
-    max-width: 320px;
+    max-width: 215px;
     margin: 0 1.5em;
   }
   .infor__title h1 {
-    font-size: 1.2em;
+    font-size: 1em;
+    margin-bottom: 20px;
   }
   .infor__summary {
     color: white;
@@ -75,8 +76,8 @@
     position: relative;
     background-color: green;
     border-radius: 40px;
-    padding: 20px;
-    margin-bottom: 30px;
+    padding: 10px;
+    margin-bottom: 10px;
     text-align: center;
   }
   /* 모바일 미디어 쿼리 안에서 */
